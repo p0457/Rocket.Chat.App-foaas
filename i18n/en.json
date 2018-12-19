@@ -1,0 +1,8 @@
+{
+  "Slash_Command_Description": "(Optional) Provides an object to tell to fuck off.",
+  "Slash_Command_Params_Example": "[object]",
+  "Customize_Icon": "Customize Icons",
+  "Customize_Icon_Description": "Change the icon that is used for messages from this integration.",
+  "Customize_Name": "Customize Name",
+  "Customize_Name_Description": "Choose the username that this integration will post as."
+}
