@@ -1,7 +1,7 @@
 {
     "id": "611457fa-df86-4fd6-ae06-b6b3372ae932",
     "version": "1.0.0",
-    "requiredApiVersion": "1.2.1",
+    "requiredApiVersion": "^1.2.1",
     "iconFile": "icon.jpg",
     "author": {
         "name": "Thomas Gardner",
