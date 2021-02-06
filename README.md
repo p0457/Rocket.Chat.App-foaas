@@ -1,6 +1,6 @@
 # Rocket.Chat.App-foaas
 
-Utilizes FOASS (http://foaas.com/) to generate an appropriate response.
+Utilizes FOAAS (http://foaas.com/) to generate an appropriate response.
 
 ## Docker
 A Dockerfile and docker-compose are provided.
